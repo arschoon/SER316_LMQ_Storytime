@@ -1,23 +1,24 @@
-Raesfeld 
-Flughafen 
-Berlin 
-Bratwurst 
-Hauptstrasse 
-Brot Klimaanlage 
-Rammstein 
-Porsche
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Schloss 
-wettbewerbsfaehig 
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss 
-Eltz
+Raesfeld - no translation, the name of a munincipality 
+Flughafen - airport
+Berlin - name of a city
+Bratwurst - bratwurst, a german sausage
+Hauptstrasse - main road
+Brot - bread 
+Klimaanlage - air conditioning
+Rammstein - name of a city
+Porsche - car maker
+BMW - car maker
+Biergarten - beer garden
+Ratskeller - a bar in the basement of a building
+Dirndel - traditional dress
+Lederhose - traditional leather pants
+Schloss - lock
+wettbewerbsfaehig - competitive 
+Mehlhase - flour bunny
+Gebaeck - pasteries
+Baeckerei -bakery
+Hund - dog
+Doener - a type of meat kebab
+Apfelkuchen - apple cake
+Schloss - lock
+Eltz - a castle
